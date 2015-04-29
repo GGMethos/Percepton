@@ -1,2 +1,0 @@
-# Percepton
-C++ Basic Percepton
